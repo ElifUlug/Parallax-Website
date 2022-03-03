@@ -1,2 +1,2 @@
 # Parallax-Website
- https://elifulug.github.io/Technology-design/
+ https://elifulug.github.io/Parallax-Website/
